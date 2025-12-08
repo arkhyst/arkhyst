@@ -12,7 +12,8 @@ _For art, is nothing more than a reflection_
   
 ### Past Projects  
 - `holy-grain` [ **PRODUCT** ] : Videogame: roguelite with lots of dark humor. Available on Steam.  
-- `art-is-dead` [ **PRODUCT** ] : Videogame: survival shooter fast and hard to beat. Available on Steam.  
+- `art-is-dead` [ **PRODUCT** ] : Videogame: survival shooter fast and hard to beat. Available on Steam.
+- `thrones` [ **PRODUCT** ] : Minecraft MMO-PVP Server featuring kingdoms and factions in a sandbox world. Server closed.
   
 ### That's all?  
 The past had its time, and we shall leave it there. We shall move forward, crafting what's to come and showing only what we're truly proud of.
