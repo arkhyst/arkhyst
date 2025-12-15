@@ -1,19 +1,23 @@
-### Arkhyst
-_For art, is nothing more than a reflection_
+## Arkhyst Workshop
+_For art, is nothing more than a reflection_  
 
-### Active Projects
-- `fast-raven` [ **PUBLIC** ] : Light, small, and fast PHP framework. v0.2.  
-- `r3-package` [ **PUBLIC** ] : System and hacking toolkit. Very early development. v0.1.  
-- `time-lords` [ **PRIVATE** ] : CRM site for a larp event. [Visit site](https://timelordsrev.org)  
-- `s3kr3ts` [ **LOCAL** ] : Similar to r3-package but more dangerous. It would not be ethical to make this project public. If you are interested to check it out, let me know.  
-  
-### Prototyping  
-- `???` - [ **PRIVATE** ] : Private Network project. Anonymity, security, freedom.  
-  
-### Past Projects  
-- `holy-grain` [ **PRODUCT** ] : Videogame: roguelite with lots of dark humor. Available on Steam.  
-- `art-is-dead` [ **PRODUCT** ] : Videogame: survival shooter fast and hard to beat. Available on Steam.
-- `thrones` [ **PRODUCT** ] : Minecraft MMO-PVP Server featuring kingdoms and factions in a sandbox world. Server closed.
-  
-### That's all?  
-The past had its time, and we shall leave it there. We shall move forward, crafting what's to come and showing only what we're truly proud of.
+### Architecture
+\- `???` [ _**local**_ ]-[ _prototype_ ]-[ _2026_ ] : Private Virtual Network project, not a gateway. Anonymity, security, freedom.  
+\- `fast-raven` [ _**public**_ ]-[ _v0.2 > v0.3_ ]-[ _2025_ ] : Light, small, and fast PHP framework.  
+
+### Games  
+\- `holy-grain` [ _**product**_ ]-[ _v1.0.5 > v1.1.0_ ]-[ _2024_ ] : Roguelite with lots of dark humor. [Available on Steam](https://store.steampowered.com/app/1651520/Holy_Grain/).  
+\- `art-is-dead` [ _**product**_ ]-[ _v1.0.4_ ]-[ _2023_ ] : Survival shooter fast and hard to beat. [Available on Steam](https://store.steampowered.com/app/2657750/Art_is_dead/).  
+\- `tasty-brains` [ _**product**_ ]-[ _v0 > v0.1_ ]-[ _2025_ ] : Spooky cooking survival game. Game Jam project.  
+\- `thrones` [ _**product**_ ]-[ _v1.2_ ]-[ _2020_ ] : Minecraft MMO Server featuring kingdoms and factions in a sandbox world. Server closed.  
+
+### Cybersecurity
+\- `r3-package` [ _**public**_ ]-[ _v0.1_ ]-[ _2025_ ] : System and hacking toolkit. Very early development.  
+\- `s3kr3ts` [ _**local**_ ]-[ _v?.?_ ]-[ _2025_ ] : Private hacking projects. If interested to review, let me know.  
+
+### Web
+\- `time-lords` [ _**private**_ ]-[ _v1.0_ ]-[ _2026_ ] : Public and CRM site for a larp organization. [Visit site](https://timelordsrev.org)  
+\- `meta-larp` [ _**private**_ ]-[ _v0.2_ ]-[ _2025_ ] : Dynamic and complex tools for managing a larp event with up to 80 players.  
+
+---  
+_Little is known of the past, and seldom will it be unveiled; for it is the present we bear with pride, and the one we choose to bring to light._
