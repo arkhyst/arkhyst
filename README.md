@@ -12,11 +12,11 @@ _For art, is nothing more than a reflection_
 \- `thrones` [ _**product**_ ]-[ _v1.2_ ]-[ _2020_ ] : Minecraft-based MMO server centered on kingdoms, diplomacy, and faction warfare. (Server closed)   
 
 ### Cybersecurity
-\- `r3-package` [ _**public**_ ]-[ _v0.1_ ]-[ _2025_ ] : System and hacking toolkit. Very early development.  
-\- `s3kr3ts` [ _**local**_ ]-[ _v?.?_ ]-[ _2025_ ] : Private hacking projects. If interested to review, let me know.  
+\- `r3-package` [ _**public**_ ]-[ _v0.1_ ]-[ _2025_ ] : System & hacking toolkit; modular utilities for pentesting and automation.  
+\- `s3kr3ts` [ _**local**_ ]-[ _v?.?_ ]-[ _2025_ ] : Private research and offensive-security projects. Access by request.  
 
 ### Web
-\- `time-lords` [ _**private**_ ]-[ _v1.0_ ]-[ _2026_ ] : Public and CRM site for a larp organization. [Visit site](https://timelordsrev.org)  
+\- `time-lords` [ _**private**_ ]-[ _v1.0_ ]-[ _2026_ ] : Website and private CRM for a larp organization. [Visit site](https://timelordsrev.org)  
 \- `meta-larp` [ _**private**_ ]-[ _v0.2_ ]-[ _2025_ ] : Dynamic and complex tools for managing a larp event with up to 80 players.  
 
 ---  
