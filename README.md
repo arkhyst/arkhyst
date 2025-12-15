@@ -3,7 +3,7 @@ _For art, is nothing more than a reflection_
 
 ### Architecture
 \- `???` [ _**local**_ ]-[ _prototype_ ]-[ _2026_ ] : Private Virtual Network project, not a gateway. Anonymity, security, freedom.  
-\- `fast-raven` [ _**public**_ ]-[ _v0.2 > v0.3_ ]-[ _2025_ ] : Light, small, and fast PHP framework.  
+\- `fast-raven` [ _**public**_ ]-[ _v0.2 > v0.3_ ]-[ _2025_ ] : Lightweight and minimal PHP framework focused on performance and small footprint.  
 
 ### Games  
 \- `holy-grain` [ _**product**_ ]-[ _v1.0.5 > v1.1.0_ ]-[ _2024_ ] : Dark-comedy roguelite built around semi-procedural events. [Available on Steam](https://store.steampowered.com/app/1651520/Holy_Grain/).  
