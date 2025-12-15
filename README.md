@@ -6,10 +6,10 @@ _For art, is nothing more than a reflection_
 \- `fast-raven` [ _**public**_ ]-[ _v0.2 > v0.3_ ]-[ _2025_ ] : Light, small, and fast PHP framework.  
 
 ### Games  
-\- `holy-grain` [ _**product**_ ]-[ _v1.0.5 > v1.1.0_ ]-[ _2024_ ] : Roguelite with lots of dark humor. [Available on Steam](https://store.steampowered.com/app/1651520/Holy_Grain/).  
-\- `art-is-dead` [ _**product**_ ]-[ _v1.0.4_ ]-[ _2023_ ] : Survival shooter fast and hard to beat. [Available on Steam](https://store.steampowered.com/app/2657750/Art_is_dead/).  
-\- `tasty-brains` [ _**product**_ ]-[ _v0 > v0.1_ ]-[ _2025_ ] : Spooky cooking survival game. Game Jam project.  
-\- `thrones` [ _**product**_ ]-[ _v1.2_ ]-[ _2020_ ] : Minecraft MMO Server featuring kingdoms and factions in a sandbox world. Server closed.  
+\- `holy-grain` [ _**product**_ ]-[ _v1.0.5 > v1.1.0_ ]-[ _2024_ ] : Dark-comedy roguelite built around semi-procedural events. [Available on Steam](https://store.steampowered.com/app/1651520/Holy_Grain/).  
+\- `art-is-dead` [ _**product**_ ]-[ _v1.0.4_ ]-[ _2023_ ] : Survival shooter that reimagines enemy AI and spatial threat dynamics. [Available on Steam](https://store.steampowered.com/app/2657750/Art_is_dead/).  
+\- `tasty-brains` [ _**product**_ ]-[ _v0 > v0.1_ ]-[ _2025_ ] : Spooky cooking-survival where grotesque dishes must be prepared under pressure.  
+\- `thrones` [ _**product**_ ]-[ _v1.2_ ]-[ _2020_ ] : Minecraft-based MMO server centered on kingdoms, diplomacy, and faction warfare. (Server closed)   
 
 ### Cybersecurity
 \- `r3-package` [ _**public**_ ]-[ _v0.1_ ]-[ _2025_ ] : System and hacking toolkit. Very early development.  
