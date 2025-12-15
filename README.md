@@ -20,4 +20,5 @@ _For art, is nothing more than a reflection_
 \- `meta-larp` [ _**private**_ ]-[ _v0.2_ ]-[ _2025_ ] : Dynamic and complex tools for managing a larp event with up to 80 players.  
 
 ---  
-_Little is known of the past, and seldom will it be unveiled; for it is the present we bear with pride, and the one we choose to bring to light._
+_Little is known of the past, and seldom will it be unveiled; for it is the present we bear with pride, and the one we choose to bring to light._  
+~ arkhyst
