@@ -8,7 +8,7 @@ _For art, is nothing more than a reflection_
 ### Games  
 \- `holy-grain` [ _**product**_ ]-[ _v1.0.5 > v1.1.0_ ]-[ _2024_ ] : Dark-comedy roguelite built around semi-procedural events. [Available on Steam](https://store.steampowered.com/app/1651520/Holy_Grain/).  
 \- `art-is-dead` [ _**product**_ ]-[ _v1.0.4_ ]-[ _2023_ ] : Survival shooter that reimagines enemy AI and spatial threat dynamics. [Available on Steam](https://store.steampowered.com/app/2657750/Art_is_dead/).  
-\- `tasty-brains` [ _**product**_ ]-[ _v0 > v0.1_ ]-[ _2025_ ] : Spooky cooking-survival where grotesque dishes must be prepared under pressure.  
+\- `tasty-brains` [ _**product**_ ]-[ _v0.1_ ]-[ _2025_ ] : Spooky cooking-survival where grotesque dishes must be delivered. [Available Release](https://github.com/arkhyst/tasty-brains/releases/tag/v0.1).   
 \- `thrones` [ _**product**_ ]-[ _v1.2_ ]-[ _2020_ ] : Minecraft-based MMO server centered on kingdoms and faction warfare. (Server closed)   
 
 ### Cybersecurity
