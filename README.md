@@ -3,7 +3,7 @@ _For art, is nothing more than a reflection_
 
 ### Architecture
 \- `???` [ _**local**_ ]-[ _prototype_ ]-[ _2026_ ] : Private Virtual Network project, not a gateway. Anonymity, security, freedom.  
-\- `fast-raven` [ _**public**_ ]-[ _v1.0.0_ ]-[ _2025_ ] : High-performance PHP framework built for monolithic applications. [View repo](https://github.com/arkhyst/fast-raven)
+\- `fast-raven` [ _**public**_ ]-[ _v1.0.0_ ]-[ _2025_ ] : High-performance PHP framework built for monolithic applications. [View repo](https://github.com/arkhyst/fast-raven)  
 
 ### Games  
 \- `holy-grain` [ _**product**_ ]-[ _v1.0.5 > v1.1.0_ ]-[ _2024_ ] : Dark-comedy roguelite built around semi-procedural events. [Available on Steam](https://store.steampowered.com/app/1651520/Holy_Grain/).  
@@ -12,7 +12,7 @@ _For art, is nothing more than a reflection_
 \- `thrones` [ _**product**_ ]-[ _v1.2_ ]-[ _2020_ ] : Minecraft-based MMO server centered on kingdoms and faction warfare. (Server closed)   
 
 ### Cybersecurity
-\- `r3-package` [ _**public**_ ]-[ _v0.1_ ]-[ _2025_ ] : System & hacking toolkit; modular utilities for pentesting and automation. [View repo](https://github.com/arkhyst/r3-package) 
+\- `r3-package` [ _**public**_ ]-[ _v0.1_ ]-[ _2025_ ] : System & hacking toolkit; modular utilities for pentesting and automation. [View repo](https://github.com/arkhyst/r3-package)  
 \- `s3kr3ts` [ _**local**_ ]-[ _v?.?_ ]-[ _2025_ ] : Private research and offensive-security projects. Access by request.  
 
 ### Web
