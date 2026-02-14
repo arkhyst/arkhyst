@@ -2,7 +2,7 @@
 _For art, is nothing more than a reflection_  
 
 ### Architecture
-\- `???` [ _**local**_ ]-[ _prototype_ ]-[ _2026_ ] : Private Virtual Network project, not a gateway. Anonymity, security, freedom.  
+\- `inferos` [ _**local**_ ]-[ _prototype_ ]-[ _2026_ ] : Decentralized Virtual Private Network technology. Anonymity, security, freedom.  
 \- `fast-raven` [ _**public**_ ]-[ _v1.0.0_ ]-[ _2025_ ] : High-performance PHP framework built for monolithic applications. [View repo](https://github.com/arkhyst/fast-raven)  
 
 ### Games  
