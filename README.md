@@ -11,7 +11,8 @@ _For art, is nothing more than a reflection_
 \- `tasty-brains` [ _**product**_ ]-[ _v0.1_ ]-[ _2025_ ] : Spooky cooking-survival where grotesque dishes must be delivered. [Available Release](https://github.com/arkhyst/tasty-brains/releases/tag/v0.1).   
 \- `thrones` [ _**product**_ ]-[ _v1.2_ ]-[ _2020_ ] : Minecraft-based MMO server centered on kingdoms and faction warfare. (Server closed)   
 
-### Cybersecurity
+### Utilities
+\- `filter-fox` [ _**public**_ ]-[ _v1.0_ ]-[ _2026_ ] : Fast and customizable message classification engine. [View repo](https://github.com/arkhyst/filter-fox)  
 \- `r3-package` [ _**public**_ ]-[ _v0.1_ ]-[ _2025_ ] : System & hacking toolkit; modular utilities for pentesting and automation. [View repo](https://github.com/arkhyst/r3-package)  
 \- `s3kr3ts` [ _**local**_ ]-[ _v?.?_ ]-[ _2025_ ] : Private research and offensive-security projects. Access by request.  
 
