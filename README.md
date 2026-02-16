@@ -2,7 +2,7 @@
 _For art, is nothing more than a reflection_  
 
 ### Architecture
-\- `inferos` [ _**local**_ ]-[ _prototype_ ]-[ _2026_ ] : Decentralized Virtual Private Network technology. Anonymity, security, freedom.  
+\- `inferos` [ _**public**_ ]-[ _prototype_ ]-[ _2026_ ] : Decentralized Virtual Private Network technology. Anonymity, security, freedom. [View project](https://github.com/inferos-cluster)  
 \- `fast-raven` [ _**public**_ ]-[ _v1.0.0_ ]-[ _2025_ ] : High-performance PHP framework built for monolithic applications. [View repo](https://github.com/arkhyst/fast-raven)  
 
 ### Games  
