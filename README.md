@@ -2,7 +2,7 @@
 _For art, is nothing more than a reflection_  
 
 ### Architecture
-\- `inferos` [ _**public**_ ]-[ _prototype_ ]-[ _2026_ ] : Decentralized Virtual Private Network technology. Anonymity, security, freedom.
+\- `inferos` [ _**public**_ ]-[ _prototype_ ]-[ _2026_ ] : Decentralized Virtual Private Network technology. Anonymity, security, freedom.  
 \- `fast-raven` [ _**public**_ ]-[ _v1.0.0_ ]-[ _2025_ ] : High-performance PHP framework built for monolithic applications. [View repo](https://github.com/arkhyst/fast-raven)  
 
 ### Games  
@@ -18,7 +18,5 @@ _For art, is nothing more than a reflection_
 ### Web
 \- `time-lords` [ _**private**_ ]-[ _v1.0_ ]-[ _2026_ ] : Website and private CRM for a larp organization. [Visit site](https://timelordsrev.org)  
 \- `meta-larp` [ _**private**_ ]-[ _v0.3_ ]-[ _2025_ ] : Dynamic and complex tools for managing a larp event with up to 80 players.  
-
----  
   
 ~ sorenfz
